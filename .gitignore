@@ -1,0 +1,39 @@
+# Public repository hygiene
+.codex/
+docs/
+stitch_minimalist_professional_landing_page/
+stitch_minimalist_professional_landing_page.zip
+
+# Internal planning notes
+backend-smartcontract-implementation-plan.md
+confidential-rwa-os-12-pages-uiux-spec.md
+confidential-rwa-os-blueprint.md
+feedback.md
+frontend/AGENTS.md
+frontend/CLAUDE.md
+
+# Build artifacts
+backend/target/
+backend/target-check/
+frontend/.next/
+frontend/playwright-report/
+frontend/test-results/
+contracts/artifacts/
+contracts/cache/
+contracts/typechain-types/
+
+# Dependencies
+node_modules/
+frontend/node_modules/
+contracts/node_modules/
+
+# Local environment files
+**/.env
+**/.env.local
+**/.env.development.local
+**/.env.test.local
+**/.env.production.local
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
