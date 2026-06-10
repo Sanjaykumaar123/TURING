@@ -1,0 +1,15 @@
+{
+  "network": "arbitrumSepolia",
+  "chainId": 421614,
+  "deployer": "0xb063C83A646A736fB98DacaAF362308E61249290",
+  "contracts": {
+    "RWAUSD": "0x8A50892EaeB55Bf723ac1cb3D844503452294942"
+  },
+  "token": {
+    "name": "RWAUSD Demo Dollar",
+    "symbol": "RWAUSD",
+    "decimals": 6,
+    "mint": "public testnet faucet only"
+  },
+  "timestamp": "2026-05-01T10:34:33.201Z"
+}

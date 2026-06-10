@@ -1,0 +1,17 @@
+{
+  "network": "arbitrumSepolia",
+  "chainId": 133,
+  "deployer": "0xE92930A61531e26D6B1EC3Ea7D434989Ab56982C",
+  "owner": "0xE92930A61531e26D6B1EC3Ea7D434989Ab56982C",
+  "factory": "0xba0EdbD7bCa6Fc7b2190669B3440a2D1065Be6bb",
+  "txHash": "0x7d6617d898b3b699df6b244dca24a065140bbfc6275eb41fe1493d01d062f2a7",
+  "contracts": {
+    "settlementAsset": "0x0AE8070d9Fa943174ea299585df459388DBbaa7A",
+    "confidentialRwaToken": "0xbC239f318D53A21803D7E6b94A1838dd983277c9",
+    "disclosureRegistry": "0x967061417A1A53fD1E7D55bA0c592550dD55Fef0",
+    "transferController": "0xf439deb646535ACA6035673e6dBab0306B48F51e",
+    "auditAnchor": "0x5679CFeE3368C8d6a49Ea5e3572128AC5D05Adf8",
+    "settlementVault": "0x2B6BcfdBB7a71CDFb1576Cc82e4faB24c8285ad7"
+  },
+  "timestamp": "2026-06-08T07:35:10.344Z"
+}

@@ -1,0 +1,11 @@
+{
+  "depositor": "0xb063C83A646A736fB98DacaAF362308E61249290",
+  "settlementVault": "0x0d4730A8b84B661731F5c03046AAAB171B2f3eF6",
+  "confidentialRwaToken": "0xbB857Ffd9bbAb26cf3A52D0Cda375CdA1abf708c",
+  "settlementAsset": "0x8A50892EaeB55Bf723ac1cb3D844503452294942",
+  "amount": "1000000",
+  "mintTx": "0x8b64e8c9be1c797e5efb2ae2c5317ab6740a33d9e2495b32ece3f04d1e431882",
+  "approveTx": "0xcec08e14b9ae1a7eb7e64b4884a94ca0c1dc2e347524ca11bae6b339d544f90f",
+  "depositTx": "0x16a1c24d5c8fa5ddb5fd930b1566895239b6f54b58a41272e1860d822ad11ec6",
+  "depositStatus": 1
+}

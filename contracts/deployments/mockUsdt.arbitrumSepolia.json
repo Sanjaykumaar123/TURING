@@ -1,0 +1,9 @@
+{
+  "network": "arbitrumSepolia",
+  "chainId": 133,
+  "deployer": "0xE92930A61531e26D6B1EC3Ea7D434989Ab56982C",
+  "contracts": {
+    "MockUSDT": "0x0AE8070d9Fa943174ea299585df459388DBbaa7A"
+  },
+  "timestamp": "2026-06-08T07:34:37.159Z"
+}
